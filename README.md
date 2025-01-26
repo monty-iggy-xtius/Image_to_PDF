@@ -21,15 +21,18 @@ Before you begin, ensure you have the following dependencies and tools installed
 ### Setup and Usage
 
 1. After successfuly cloning this repo, change your working directory to the cloned repository:
-
-```bash
-cd Image_to_PDF
-```
-2. Install the project dependencies defined in the requirements.txt file using `pip3 install -r requirements.txt`
-
-3. After all is set, call the main python file from the terminal / cmd using `python3 image2PDF.py`.
-
-4. Type in the folder path to your images and the desired output file name in the prompt that appears and you're all set
+   ```bash
+   cd Image_to_PDF
+   ```
+2. Install project dependencies defined in the requirements.txt file
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+3. After successful installation, call the main python file from the terminal / cmd
+   ```bash
+   python3 image2PDF.py
+   ```
+4. Provide the folder path to your images and the desired output file name in the prompt that appears and you're all set
 
 ## Contact
 Reach out to me for collaborations: monmihalo2324@gmail.com
